@@ -166,12 +166,9 @@ Roll out the new checkout experience to all users.
 
 ## Dashboard Preview
 
-### Experiment Dashboard
-
-
-
-### Experiment Comparison
-
+<p align="center">
+  <img src="Dashboard%20preview1.png" width="700">
+</p>
 
 
 ---
